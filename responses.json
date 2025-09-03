@@ -1,0 +1,57 @@
+{
+  "greeting": {
+    "keywords": [
+      "hello",
+      "hi",
+      "hey",
+      "مرحبا",
+      "اهلا"
+    ],
+    "en": [
+      "Hello! How can I assist you today?",
+      "Hi! Looking for something specific?"
+    ],
+    "ar": [
+      "مرحبا! كيف يمكنني مساعدتك اليوم؟",
+      "اهلا! هل تبحث عن شيء معين؟"
+    ]
+  },
+  "success": {
+    "en": [
+      "Here's what I found:",
+      "Got it! Check this out:"
+    ],
+    "ar": [
+      "إليك ما وجدته:",
+      "حسنا! تحقق من هذا:"
+    ]
+  },
+  "no_results": {
+    "en": "Sorry, I couldn't find anything matching your query.",
+    "ar": "عذرا، لم أتمكن من العثور على أي شيء يطابق طلبك."
+  },
+  "product": {
+    "template": {
+      "en": "{intro}**{name} ({arabic_name})**\nDescription: {description}\nPrice: ${price}\nStock: {stock}\nCategory: {category}\nDosage: {dosage}",
+      "ar": "{intro}**{name} ({arabic_name})**\nالوصف: {description}\nالسعر: ${price}\nالمخزون: {stock}\nالفئة: {category}\nالجرعة: {dosage}"
+    }
+  },
+  "stock_alert": {
+    "out_of_stock": {
+      "en": "Out of stock!",
+      "ar": "نفد المخزون!"
+    },
+    "low_stock": {
+      "en": "Low stock! Only {stock} left.",
+      "ar": "مخزون منخفض! يتبقى {stock} فقط."
+    }
+  },
+  "invalid_message": {
+    "en": "Please enter a valid message.",
+    "ar": "يرجى إدخال رسالة صالحة."
+  },
+  "no_dosage": {
+    "en": "No dosage information available.",
+    "ar": "لا توجد معلومات عن الجرعة."
+  }
+}
